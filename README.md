@@ -80,12 +80,11 @@ Edit
 
 
 
-## 📑 Classification Report
-
+📑 Classification Report
 markdown
 Copy
 Edit
-      precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
       Legit       1.00      0.99      1.00     56864
       Fraud       0.14      0.87      0.24        98
@@ -93,4 +92,5 @@ Edit
     accuracy                           0.99     56962
    macro avg       0.57      0.93      0.62     56962
 weighted avg       1.00      0.99      0.99     56962
+
 
