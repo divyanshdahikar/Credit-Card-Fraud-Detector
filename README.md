@@ -72,6 +72,7 @@ Fraud FN TP
 
 
 📑 Classification Report
+             
               precision    recall  f1-score   support
 
       Legit       1.00      0.99      1.00     56864
