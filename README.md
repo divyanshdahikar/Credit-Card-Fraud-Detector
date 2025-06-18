@@ -58,10 +58,8 @@ This project analyzes and predicts fraudulent credit card transactions using mac
 | Precision      | 13.80 %   |
 | Recall         | 86.73 %   |
 | F1 Score       | 23.81 %   |
+⚠️ Due to class imbalance, **recall** is prioritized over precision.
 
-> ⚠️ Due to class imbalance, **recall** is prioritized over precision.
-
----
 
 ## 🔍 Confusion Matrix
 
@@ -77,10 +75,10 @@ yaml
 Copy
 Edit
 
-![Uploading Screenshot 2025-06-18 172652.png…]()
+![Screenshot 2025-06-18 172652](https://github.com/user-attachments/assets/53925466-41a5-4d2d-bceb-7c12b60c2069)
 
 
----
+
 
 ## 📑 Classification Report
 
