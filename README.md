@@ -19,12 +19,11 @@ This project analyzes and predicts fraudulent credit card transactions using mac
 
 > ✨ Drop your EDA visualizations here 👇
 
-<!-- 
+
 ![Screenshot 2025-06-18 173030](https://github.com/user-attachments/assets/be1c8dab-50fe-4960-8e3e-49146bee04cc)
 
 ![Screenshot 2025-06-18 173045](https://github.com/user-attachments/assets/2b7d675c-e4bd-42fb-a10f-a0bd48abf7f5)
 
--->
 
 - Class imbalance visualization  
 - Transaction amount distribution (fraud vs non-fraud)  
