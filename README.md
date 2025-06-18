@@ -62,28 +62,16 @@ This project analyzes and predicts fraudulent credit card transactions using mac
 
 
 ## 🔍 Confusion Matrix
-
-markdown
-Copy
-Edit
         Predicted
         Legit   Fraud
 Actual Legit TN FP
 Fraud FN TP
-
-yaml
-Copy
-Edit
-
 ![Screenshot 2025-06-18 172652](https://github.com/user-attachments/assets/53925466-41a5-4d2d-bceb-7c12b60c2069)
 
 
 
 
 📑 Classification Report
-markdown
-Copy
-Edit
               precision    recall  f1-score   support
 
       Legit       1.00      0.99      1.00     56864
